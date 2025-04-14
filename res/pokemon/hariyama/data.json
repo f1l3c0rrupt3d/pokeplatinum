@@ -4,8 +4,8 @@
         "attack": 120,
         "defense": 90,
         "speed": 30,
-        "special_attack": 90,
-        "special_defense": 50
+        "special_attack": 50,
+        "special_defense": 90
     },
     "types": [ "TYPE_FIGHTING", "TYPE_NORMAL" ],
     "catch_rate": 200,
