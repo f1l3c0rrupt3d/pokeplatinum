@@ -2,12 +2,12 @@
     "base_stats": {
         "hp": 144,
         "attack": 120,
-        "defense": 60,
-        "speed": 50,
-        "special_attack": 40,
-        "special_defense": 60
+        "defense": 90,
+        "speed": 30,
+        "special_attack": 90,
+        "special_defense": 50
     },
-    "types": [ "TYPE_FIGHTING", "TYPE_FIGHTING" ],
+    "types": [ "TYPE_FIGHTING", "TYPE_NORMAL" ],
     "catch_rate": 200,
     "base_exp_reward": 184,
     "ev_yields": {
@@ -52,6 +52,7 @@
             [ 47, "MOVE_ENDURE" ],
             [ 52, "MOVE_CLOSE_COMBAT" ],
             [ 57, "MOVE_REVERSAL" ]
+        
         ],
         "by_tm": [
             "TM01",
